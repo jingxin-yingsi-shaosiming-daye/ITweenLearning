@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d7da4a7-abff-4e2a-96d9-3383fcf0b395" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Aries/Aries_Global.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Aries/Aries_Global.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Command/DataVisualizationCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Command/DataVisualizationCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Command/LoginCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Command/LoginCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Command/StartCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Command/StartCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Model/DataVisualizationModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Model/DataVisualizationModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Model/TianRui_Model.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Model/TianRui_Model.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Service/Aries_IService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Service/Aries_IService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Service/DataVisualizationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Service/DataVisualizationService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Service/LoginService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/Service/LoginService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/YYM/SettingView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Resource/Assets/TianRui/Scripts/YYM/SettingView.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TweenRoam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Pixelplacement/iTween/iTween.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/TweenRoam.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ftq7tzsbR5GEqt571kLmGuzjzC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d7da4a7-abff-4e2a-96d9-3383fcf0b395" name="Default Changelist" comment="" />
+      <created>1597047572930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597047572930</updated>
+      <workItem from="1597047574302" duration="1348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Plugins/Pixelplacement/iTween/iTween.cs</url>
+          <line>3386</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Plugins/Pixelplacement/iTween/iTween.cs" initialLine="3386">
+            <startOffsets>
+              <option value="140308" />
+            </startOffsets>
+            <endOffsets>
+              <option value="140343" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
